@@ -98,8 +98,7 @@
     gap: 8px;
     padding: 8px 12px;
     border-radius: 999px;
-    font-size: 0.85rem;
-    background: rgba(34, 197, 94, 0.1);
+    /* background: rgba(34, 197, 94, 0.1); */
 }
 
 .product-card p:last-child span[style*="green"] {
@@ -110,6 +109,19 @@
 .product-card p:last-child span[style*="red"] {
     color: #dc2626 !important;
     background: rgba(239, 68, 68, 0.12);
+}
+
+.add-to-cart-btn{
+    display: block;
+    width: calc(100% - 32px);
+    margin: 12px 16px 16px;
+    padding: 10px 0;
+    border: none;
+    border-radius: 8px;
+    color: #ffffff;
+    font-size: 0.85rem;
+    font-weight: 600;
+    transition: background-color 0.25s ease, transform 0.25s ease, box-shadow 0.25s ease;
 }
 
 @media (max-width: 640px) {
