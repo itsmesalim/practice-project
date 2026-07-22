@@ -54,7 +54,7 @@ const ProductsList = [
     "name": "Smart Watch",
     "category": "Wearables",
     "price": 199.99,
-    "stock": 30,
+    "stock": 390,
     "rating": 4.7,
     "brand": "FitPulse",
     "image": "https://picsum.photos/300/300?random=6"
@@ -74,7 +74,7 @@ const ProductsList = [
     "name": "Portable SSD 1TB",
     "category": "Storage",
     "price": 119.99,
-    "stock": 40,
+    "stock": 470,
     "rating": 4.9,
     "brand": "FastDrive",
     "image": "https://picsum.photos/300/300?random=8"
@@ -104,7 +104,7 @@ const ProductsList = [
     "name": "Office Chair",
     "category": "Furniture",
     "price": 179.99,
-    "stock": 18,
+    "stock": 180,
     "rating": 4.5,
     "brand": "ComfortSeat",
     "image": "https://picsum.photos/300/300?random=11"
@@ -124,7 +124,7 @@ const ProductsList = [
     "name": "Coffee Maker",
     "category": "Kitchen",
     "price": 69.99,
-    "stock": 35,
+    "stock": 377,
     "rating": 4.6,
     "brand": "BrewPro",
     "image": "https://picsum.photos/300/300?random=13"
@@ -144,7 +144,7 @@ const ProductsList = [
     "name": "Vacuum Cleaner",
     "category": "Home",
     "price": 149.99,
-    "stock": 22,
+    "stock": 220,
     "rating": 4.5,
     "brand": "CleanMax",
     "image": "https://picsum.photos/300/300?random=15"
